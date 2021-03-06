@@ -1,2 +1,2 @@
 # HaganeStorage
-Webサイト
+Webサイトを公開すると思う

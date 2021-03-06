@@ -1,2 +1,4 @@
 # HaganeStorage
-Webサイトを公開すると思う
+Webサイトを公開したよ
+URL
+https://hagane1152.github.io/HaganeStorage/
